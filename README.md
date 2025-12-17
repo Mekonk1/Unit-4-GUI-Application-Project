@@ -1,7 +1,7 @@
 # Unit-4-GUI-Application-Project
 
 Project Introduction/Overview
--Game where you must avoid mobs in order to collect coins in timely manner. Goal is to colelct most amount of coins possible
+- Game where you must avoid mobs in order to collect coins in timely manner. Goal is to colelct most amount of coins possible
 
 
 How to run the program
